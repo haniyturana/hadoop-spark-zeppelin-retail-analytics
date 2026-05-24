@@ -1,7 +1,5 @@
 # hadoop-spark-retail-analytics
 
-# Online Retail Big Data Analytics Pipeline
-
 This repository contains an end-to-end Big Data Engineering and Analytics pipeline for large-scale e-commerce transactional data. The project orchestrates data cleaning, interactive exploratory analysis, and advanced machine learning modeling using a distributed ecosystem.
 
 ---
