@@ -50,6 +50,6 @@ To interact with the interactive scripts and review the analysis logs, ensure yo
 
 ```bash
 ├── cleancolumn_cleandescription.ipynb  # Pre-ingestion data cleansing notebook
-├── onlineretail2_1.json                # Exported Apache Zeppelin analytical notebook
+├── onlineretail2_1 (2).json            # Exported Apache Zeppelin analytical notebook
 ├── README.md                           # Documentation and infrastructure map
 └── Apache_Zeppelin_EDA_Report.pdf      # Full analytical and architecture setup report
