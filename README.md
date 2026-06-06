@@ -49,7 +49,7 @@ To interact with the interactive scripts and review the analysis logs, ensure yo
 ## 📂 Repository Structure
 
 ```bash
-├── cleancolumn_cleandescription.ipynb  # Pre-ingestion data cleansing notebook
+├── cleancolumn_name (3).ipynb          # Pre-ingestion data cleansing notebook
 ├── onlineretail2_1 (2).json            # Exported Apache Zeppelin analytical notebook
 ├── README.md                           # Documentation and infrastructure map
 └── Apache_Zeppelin_EDA_Report.pdf      # Full analytical and architecture setup report
