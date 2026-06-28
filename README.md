@@ -1,14 +1,12 @@
 # Big Data Architecture & Retail Analytics Pipeline
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge.svg)](https://hadoop-spark-zeppelin-retail-analytics-tq4rjpsnn9pns3z8nm9hwb.streamlit.app/)
-
 This repository contains an end-to-end **Big Data Engineering and Analytics pipeline** designed to process, clean, and analyze large-scale e-commerce transactional datasets. The project orchestrates automated data preprocessing, interactive exploratory data analysis (EDA), and data profiling strategies within a distributed, enterprise-grade big data ecosystem.
 
-🚀 **[View Live Interactive Dashboard](https://hadoop-spark-zeppelin-retail-analytics-tq4rjpsnn9pns3z8nm9hwb.streamlit.app/)**
+**[View Live Interactive Dashboard](https://hadoop-spark-zeppelin-retail-analytics-tq4rjpsnn9pns3z8nm9hwb.streamlit.app/)**
 
 ---
 
-## 🏗️ Project Architecture & Tech Stack
+## Project Architecture & Tech Stack
 
 The pipeline is strategically divided into independent environments to leverage individual frameworks for specialized workloads:
 
@@ -39,7 +37,7 @@ The pipeline is strategically divided into independent environments to leverage 
 
 ---
 
-## 🛠️ Prerequisites & Local Infrastructure Setup
+## Prerequisites & Local Infrastructure Setup
 
 To interact with the interactive scripts and review the analysis logs, ensure your host environment satisfies the following infrastructure constraints:
 
